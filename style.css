@@ -194,3 +194,7 @@ div.uiPopover{
 .fadeModal.fade.fade-enter-done {
     backdrop-filter: blur(10px);
 }
+div.name{
+  display: none;
+}
+
