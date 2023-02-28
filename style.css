@@ -1,3 +1,7 @@
+body{
+  background-color:black !important;
+}
+
 div.navBody {
   background-color: black !important;
   border-color: black !important;
