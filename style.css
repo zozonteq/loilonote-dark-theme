@@ -1,200 +1,199 @@
 div.navBody {
-  background-color: black;
-  border-color: black;
+  background-color: black !important;
+  border-color: black !important;
 }
 
 div.navHeaderGrid {
-  background-color: black;
+  background-color: black !important;
   
-  border-color: black;
-  color: white;
+  border-color: black !important;
+  color: white !important;
 }
 
 div.listViewCellInner {
-  background-color: black;
-  color: white;
+  background-color: black !important;
+  color: white !important;
 }
 
 div.listViewCell {
-  background-color: black;
-  border-color: #151515;
+  background-color: black !important;
+  border-color: #151515 !important;
 }
 div.listViewSection {
-  background-color: black;
+  background-color: black !important;
 }
 
 a.uiPopoverItem {
-  background-color: black;
-  border-color: black;
+  background-color: black !important;
+  border-color: black !important;
 }
 
 div.uiPopoverItem {
-  background-color: black;
-  backdrop-filter: blur(12px);
-  border-color: black;
+  background-color: black !important;
+  backdrop-filter: blur(12px) !important;
+  border-color: black !important;
 }
 
 div.navHeader {
-  background-color: black;
-  border-color: black;
+  background-color: black !important;
+  border-color: black !important;
 }
 
 select.uiLangSelector {
-  background-color: #212121;
-  border-radius: 14px;
-  color: white;
+  background-color: #212121 !important;
+  border-radius: 14px !important;
+  color: white !important;
 }
 
 
 div.internalButton.desktopBackButton {
-  background-color: black;
-  border-top-left-radius: 8px;
-  border-top-right-radius: 8px;
-  margin-top: 10px;
-  margin-left: 10px;
+  background-color: black !important;
+  border-top-left-radius: 8px !important;
+  border-top-right-radius: 8px !important;
+  margin-top: 10px !important;
+  margin-left: 10px !important;
 }
 
 div.menu {
-  background-color: black;
-  border-bottom-left-radius: 8px;
-  border-bottom-right-radius: 8px;
-  margin-left: 10px;
+  background-color: black !important;
+  border-bottom-left-radius: 8px !important;
+  border-bottom-right-radius: 8px !important;
+  margin-left: 10px !important;
 }
 
 span.submissionBoardTitleInner {
-  background-color: black;
-  color: white;
-  padding-left: 10px;
-  padding-right: 10px;
+  background-color: black !important;
+  color: white !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
 }
 
 div.submissionBoardTitle {
-  background-color: black;
-  border-top-right-radius: 10px;
-  border-bottom-right-radius: 10px;
-  padding: 10px;
+  background-color: black !important;
+  border-top-right-radius: 10px !important;
+  border-bottom-right-radius: 10px !important;
+  padding: 10px !important;
 }
 
 div.timelineBalloonContent {
-  background-color: black;
+  background-color: black !important;
 }
 
 div.timelineBalloonArrow {
-  display: none;
+  display: none !important;
 }
 
 div.timelineEntryMessage {
-  color: white;
+  color: white !important;
 }
 
 img.timelineEntryDescIcon {
-  display: none;
+  display: none !important;
 }
 
 div.mstMenu {
   
-  margin-left: 10px;
+  margin-left: 10px !important;
 }
 
 div.nav {
   
-  background-color: black;
+  background-color: black !important;
 }
 
 div.listViewRoundButtonInner {
-  background-color: black;
-  border-radius: 30px;
+  background-color: black !important;
+  border-radius: 30px !important;
   
 }
 
 div.uiSortButtonPopoverAnchor {
-  background-color: black;
-  color: white;
+  background-color: black !important;
+  color: white !important;
 }
 
 div.uiSortButtonDropdownArrow {
-  background-color: white;
+  background-color: white !important;
 }
 
 div.uiPopoverItem.uiSortMenuItem {
-  background-color: #151515;
-  border-radius: 20px;
+  background-color: #151515 !important;
+  border-radius: 20px !important;
 }
 div.uiPopoverTriInner{
-  display: none;
+  display: none !important;
 }
 div.uiSortMenuItemTitle {
-  color: white;
+  color: white !important;
 }
 
 div.submissionListMiddleHeader {
-  background-color: black;
+  background-color: black !important;
 }
 
 
 
 div.submissionListCell {
-  border: black;
+  border: black !important;
 }
 
 div.ellipsisText.submissionListCellUserName {
-  color: white;
-  border: black;
-  height: 40;
-  background-color: #222222;
+  color: white !important;
+  border: black !important;
+  height: 40 !important;
+  background-color: #222222 !important;
 }
 div.editorTimestampAuthorNamePageNumber{
-  background-color: black;
-  color: white;
-  border: 20px;
-  padding: 10px;
+  background-color: black !important;
+  color: white !important;
+  border: 20px !important;
+  padding: 10px !important;
 }
 
 div.submissionBoardTime {
-  margin-top: px;
-  border-color: black;
-  border-top-left-radius: 10px;
-  border-bottom-left-radius: 10px;
-  height: 46px;
-  text-align: center;
-  background-color: black;
+  margin-top: px !important;
+  border-color: black !important;
+  border-top-left-radius: 10px !important;
+  border-bottom-left-radius: 10px !important;
+  height: 46px !important;
+  text-align: center !important;
+  background-color: black !important;
 }
 div.submissionBoard :nth-of-type(2){
-  width: 0px;
+  width: 0px !important;
 }
 
 div.submissionHistoryDueItem {
-  background-color: black;
-  border-color: #212121;
+  background-color: black !important;
+  border-color: #212121 !important;
 }
 
 div.submissionHistoryPopoverSubmitDate {
-  color: white;
-  font-size: 14px;
-  border-color: #212121;
+  color: white !important;
+  font-size: 14px !important;
+  border-color: #212121 !important;
 }
 
 div.uiPopoverItem.submissionHistoryPopoverItem ::before{
-  border-color: #212121;
+  border-color: #212121 !important;
   
 }
 div.submissionHistoryPopover{
-  background-color: black;
+  background-color: black !important;
 }
 div.uiPopover{
-  background-color: black;
+  background-color: black !important;
 }
 
 .fullScreenPortal.drawerPortal.drawerPortal-enter-done {
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px) !important;
 }
 .fadeModal.centerModal.up.up-enter-done {
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px) !important;
 }
 .fadeModal.fade.fade-enter-done {
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px) !important;
 }
 div.name{
-  display: none;
+  display: none !important;
 }
-
