@@ -1,0 +1,193 @@
+body{
+  background-color:black !important;
+}
+
+div.navBody {
+  background-color: black !important;
+  border-color: black !important;
+}
+
+div.navHeaderGrid {
+  background-color: black !important;
+  
+  border-color: black !important;
+  color: white !important;
+}
+
+div.listViewCellInner {
+  background-color: black !important;
+  color: white !important;
+}
+
+div.listViewCell {
+  background-color: black !important;
+  border-color: #151515 !important;
+}
+div.listViewSection {
+  background-color: black !important;
+}
+
+a.uiPopoverItem {
+  background-color: black !important;
+  border-color: black !important;
+}
+
+div.uiPopoverItem {
+  background-color: black !important;
+  backdrop-filter: blur(12px) !important;
+  border-color: black !important;
+}
+
+div.navHeader {
+  background-color: black !important;
+  border-color: black !important;
+}
+
+select.uiLangSelector {
+  background-color: #212121 !important;
+  border-radius: 14px !important;
+  color: white !important;
+}
+
+
+div.internalButton.desktopBackButton {
+  background-color: black !important;
+  border-top-left-radius: 8px !important;
+  border-top-right-radius: 8px !important;
+  margin-top: 10px !important;
+  margin-left: 10px !important;
+}
+
+div.menu {
+  background-color: black !important;
+  border-bottom-left-radius: 8px !important;
+  border-bottom-right-radius: 8px !important;
+  margin-left: 10px !important;
+}
+
+span.submissionBoardTitleInner {
+  background-color: black !important;
+  color: white !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+}
+
+div.submissionBoardTitle {
+  background-color: black !important;
+  border-top-right-radius: 10px !important;
+  border-bottom-right-radius: 10px !important;
+  padding: 10px !important;
+}
+
+div.timelineBalloonContent {
+  background-color: black !important;
+}
+
+div.timelineBalloonArrow {
+  display: none !important;
+}
+
+div.timelineEntryMessage {
+  color: white !important;
+}
+
+img.timelineEntryDescIcon {
+  display: none !important;
+}
+
+div.mstMenu {
+  
+  margin-left: 10px !important;
+}
+
+div.nav {
+  
+  background-color: black !important;
+}
+
+div.listViewRoundButtonInner {
+  background-color: black !important;
+  border-radius: 30px !important;
+  
+}
+
+div.uiSortButtonPopoverAnchor {
+  background-color: black !important;
+  color: white !important;
+}
+
+div.uiSortButtonDropdownArrow {
+  background-color: white !important;
+}
+
+div.uiPopoverItem.uiSortMenuItem {
+  background-color: #151515 !important;
+  border-radius: 20px !important;
+}
+div.uiPopoverTriInner{
+  display: none !important;
+}
+div.uiSortMenuItemTitle {
+  color: white !important;
+}
+
+div.submissionListMiddleHeader {
+  background-color: black !important;
+}
+
+
+
+div.submissionListCell {
+  border: black !important;
+}
+
+div.ellipsisText.submissionListCellUserName {
+  color: white !important;
+  border: black !important;
+  height: 40 !important;
+  background-color: #222222 !important;
+}
+div.editorTimestampAuthorNamePageNumber{
+  background-color: black !important;
+  color: white !important;
+  border: 20px !important;
+  padding: 10px !important;
+}
+
+div.submissionBoardTime {
+  margin-top: px !important;
+  border-color: black !important;
+  border-top-left-radius: 10px !important;
+  border-bottom-left-radius: 10px !important;
+  height: 46px !important;
+  text-align: center !important;
+  background-color: black !important;
+}
+div.submissionBoard :nth-of-type(2){
+  width: 0px !important;
+}
+
+div.submissionHistoryDueItem {
+  background-color: black !important;
+  border-color: #212121 !important;
+}
+
+div.submissionHistoryPopoverSubmitDate {
+  color: white !important;
+  font-size: 14px !important;
+  border-color: #212121 !important;
+}
+
+div.uiPopoverItem.submissionHistoryPopoverItem ::before{
+  border-color: #212121 !important;
+  
+}
+div.submissionHistoryPopover{
+  background-color: black !important;
+}
+div.uiPopover{
+  background-color: black !important;
+}
+div.name{
+  display: none !important;
+}
