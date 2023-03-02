@@ -1,5 +1,5 @@
-# loilonote-black-theme
-black theme for loilonote.  
+# loilonote-dark-theme
+dark theme for loilonote.  
 ロイロノートの非公式ダークテーマです。Web版に対応しています。
 # Preview
 ![image](https://user-images.githubusercontent.com/77091655/220373072-545f9560-4a9d-4fe1-ab7c-8c952a53e990.png)
