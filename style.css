@@ -201,3 +201,15 @@ div.uiPopover{
 div.name{
   display: none !important;
 }
+:root{
+  --primaryBlue: #dd0000 !important;
+  --primaryBlueTint: #0467de !important;
+  --primaryBlueHighlight: #b2d8ff !important;
+  --disabledColor: #b6b6b9 !important;
+  --disabledBorderColor: #6d6d72 !important;
+  --neutralColor: #aaaaaa !important;
+  --whiteHilightColor: #ccc !important;
+  --warnYellow: #ffe44d !important;
+  --errorRed: #ff5e4d !important;
+  --desktopBackColor: #220000 !important;
+}
