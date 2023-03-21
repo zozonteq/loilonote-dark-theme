@@ -1,3 +1,6 @@
+.tutorialDialog{
+  display: none !important;
+}
 body{
   background-color:black !important;
 }
